@@ -12,6 +12,10 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis n
         ostrum molestias quam earum ex? Necessitatibus aspernatur magni id fuga fugiat velit vel. 
             Consequatur molestiae facilis blanditiis totam possimus ab molestias!</p>
+            <ul>
+                <li>satu</li>
+                <li>dua</li>
+            </ul>
 </body>
 
 </html>
